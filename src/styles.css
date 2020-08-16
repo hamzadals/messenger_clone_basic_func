@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App > form {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+}
+.App > form > input {
+  width: 70%;
+  padding: 8px;
+  border: solid #000;
+  border-radius: 15px;
+}
+.App > form > button {
+  width: 15%;
+  padding: 8px;
+  border: solid #000;
+  border-radius: 15px;
+  background: #0099ff;
+  color: #fff;
+}

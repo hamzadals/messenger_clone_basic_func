@@ -1,0 +1,29 @@
+.messages{
+float: left;
+margin: 10px;
+padding: 5px 10px;
+border-radius:15px;
+background: #373737;
+color: white;
+line-height: 1.34;
+  display: block;
+  font-size: 14px;
+font-weight: normal;
+}
+.cf{
+  clear: both;
+}
+.messages_user{
+  float: right;
+  margin: 10px;
+  padding: 5px 10px;
+  border-radius:15px;
+  background: #0099FF;
+  color: white;
+  line-height: 1.34;
+  display: block;
+  font-size: 14px
+  }
+  .end:nth-last-of-type(1){
+margin-bottom: 25px;
+  }
